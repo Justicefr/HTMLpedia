@@ -9,7 +9,7 @@ HTMLpedia is a simple HTML-only website built collaboratively by our team to lea
 - Victor — Space
 - Cynthia — Animals
 - Peculiar — Food
-- Zion — Africa
+- Zion — Sports
 
 ## How to Run
 
